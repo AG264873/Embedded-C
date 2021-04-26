@@ -5,7 +5,7 @@
 int first_activity(void){
     DDRB = DDRB&0b11111101;//fd
     DDRC = DDRC|0b01000000;//40
-    DDRD = DDRB&0b11111110;//fd
+    DDRB = DDRB&0b11111110;
 
 
     while(1){
