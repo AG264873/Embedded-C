@@ -13,7 +13,7 @@ Folder             | Description
 `3_src`            | All activities 
 `4_simulation`     | Simulatuion on SimulIde
 
-#### CI and Code Quality
+## CI and Code Quality
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
