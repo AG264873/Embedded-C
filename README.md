@@ -13,9 +13,6 @@ Folder             | Description
 `3_src`            | All activities 
 `4_simulation`     | Simulatuion on SimulIde
 
-|Codacy|
-|:--:|
-|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1be445a6525487dad81df49aedd6d91)](https://www.codacy.com/gh//Arvindmishra1999/LTTS_Embedded/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=/Arvindmishra1999/LTTS_Embedded&amp;utm_campaign=Badge_Grade)|
 
 # Functions used
 * User Defined Header File
