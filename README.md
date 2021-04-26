@@ -13,6 +13,11 @@ Folder             | Description
 `3_src`            | All activities 
 `4_simulation`     | Simulatuion on SimulIde
 
+#### CI and Code Quality
+
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+|[![Compile-Linux](https://github.com/AG264873/Embedded-C/actions/workflows/Compile.yml/badge.svg)](https://github.com/AG264873/Embedded-C/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/AG264873/Embedded-C/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/AG264873/Embedded-C/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1be445a6525487dad81df49aedd6d91)](https://www.codacy.com/gh/AG264873/Embedded-C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AG264873/Embedded-C&amp;utm_campaign=Badge_Grade)|
 
 # Functions used
 * User Defined Header File
