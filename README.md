@@ -57,5 +57,4 @@ Folder             | Description
 
 SF Id. |  Name   |    Features    | Issuess Raised |Issues Resolved
 -------|---------|----------------|----------------|---------------
-`264873` | Arvind G. Mishra | Feature A, B etc    | Y yes     | Y yes   
-
+`264873` | Arvind G. Mishra | Feature A, B etc    | Y yes     | Y yes 
