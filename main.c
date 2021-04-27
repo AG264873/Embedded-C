@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    first_activity();
+    fstactivity();
 
     return 0;
 }
