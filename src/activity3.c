@@ -1,3 +1,5 @@
+#include "activity3.h"
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include "activity2.h"
