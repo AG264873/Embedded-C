@@ -4,6 +4,7 @@
 
 # Description
 * This system focus on creating Heat controller using Embedded System.
+* All activities are discussed in simulation folder.
 
 ## Folder Structure
 Folder             | Description
