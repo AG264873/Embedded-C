@@ -16,3 +16,9 @@ Switch 1           | Switch 2          | LED
 |Changes in RamTable with respect to Potentiometer|
 |:----:|
 |![image](https://user-images.githubusercontent.com/83201374/116276123-d3357000-a7a1-11eb-9967-a7efddcdf3bb.png)|
+
+# Activity 3
+
+|Showing PWM wave for various dutycycle on CRO|
+|:----:|
+|![image](https://user-images.githubusercontent.com/83201374/116440440-22e16d80-a86e-11eb-939f-e3ecede83d50.png)![image](https://user-images.githubusercontent.com/83201374/116440683-57edc000-a86e-11eb-9c12-9a9a9d297ccc.png)|
