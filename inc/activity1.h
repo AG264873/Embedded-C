@@ -1,7 +1,7 @@
 #include <avr/io.h>
 
-#ifndef __FUNCTION_H__
-#define __FUNCTION_H__
+#ifndef __ACTIVITY_ONE_H__
+#define __ACTIVITY_ONE_H__
 
 /*******************************************FUNCTION PROTOTYPE**********************************************************/
 //function prototypes to be used
@@ -14,4 +14,4 @@
  
 int fstactivity(void);
 
-#endif // __FUNCTION_H__
+#endif // __ACTIVITY_ONE_H__
