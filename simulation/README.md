@@ -15,7 +15,7 @@ Switch 1           | Switch 2          | LED
 
 |Changes in RamTable with respect to Potentiometer|
 |:----:|
-|![image](https://user-images.githubusercontent.com/83201374/116276123-d3357000-a7a1-11eb-9967-a7efddcdf3bb.png)|
+|![image](https://user-images.githubusercontent.com/83201374/116531641-07717380-a8fd-11eb-9405-1b9301b05ca9.png)|
 
 # Activity 3
 
