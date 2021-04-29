@@ -13,7 +13,7 @@ Switch 1           | Switch 2          | LED
                                                                                                        
 |OFF|OFF|OFF|ON|
 |:--:|:--:|:--:|:--:|
-|![image](https://user-images.githubusercontent.com/83201374/116531938-515a5980-a8fd-11eb-94bc-5e0a2c66d9ea.png)|![image](https://user-images.githubusercontent.com/83201374/116532077-7e0e7100-a8fd-11eb-803f-521a07c399f6.png)|![image](https://user-images.githubusercontent.com/83201374/116532201-a007f380-a8fd-11eb-8a1c-850c67808519.png)|![image](https://user-images.githubusercontent.com/83201374/116532408-d47baf80-a8fd-11eb-96ac-be001e17e5d2.png)|
+|![image](https://user-images.githubusercontent.com/83201374/116531938-515a5980-a8fd-11eb-94bc-5e0a2c66d9ea.png)|![image](https://user-images.githubusercontent.com/83201374/116532077-7e0e7100-a8fd-11eb-803f-521a07c399f6.png)|![image](https://user-images.githubusercontent.com/83201374/116573118-2a664c80-a92a-11eb-9780-10ef3fa181f9.png)|![image](https://user-images.githubusercontent.com/83201374/116532408-d47baf80-a8fd-11eb-96ac-be001e17e5d2.png)|
 
 # Activity 2
 
