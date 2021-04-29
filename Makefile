@@ -19,6 +19,7 @@ ifdef OS	# All configurations for Windwos OS
    CC = avr-gcc.exe
    # Name of the elf to hex file converter used
    AVR_OBJ_CPY = avr-objcopy.exe
+
 else #All configurations for Linux OS
    ifeq ($(shell uname), Linux)
    	  # Delete command

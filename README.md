@@ -70,7 +70,9 @@ Folder             | Description
 		1. Run "make analysis"
 	* To delete all the executable files
 		1. Run "make clean"
-
+* In cmd/terminal in build folder
+	* To generate hex file
+		1. Run "avr-objcopy -O ihex Heat_Controller.elf Heat_Controller.hex"
 
 # Installation
 * Fork the project
