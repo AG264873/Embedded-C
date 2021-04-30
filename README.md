@@ -19,19 +19,19 @@ Switch 1           | Switch 2          | LED
 
 |Changes in RamTable with respect to Potentiometer|
 |:----:|
-|![image](https://user-images.githubusercontent.com/83201374/116531641-07717380-a8fd-11eb-9405-1b9301b05ca9.png)|
+|![image](https://user-images.githubusercontent.com/83201374/116695291-09f7ca00-a9de-11eb-8887-357ee5dfa4f8.png)![image](https://user-images.githubusercontent.com/83201374/116695364-23007b00-a9de-11eb-9eca-4e35d16a0740.png)|
 
 # Activity 3
 
 |Showing PWM wave for various dutycycle on CRO|
 |:----:|
-|![image](https://user-images.githubusercontent.com/83201374/116440440-22e16d80-a86e-11eb-939f-e3ecede83d50.png)![image](https://user-images.githubusercontent.com/83201374/116440683-57edc000-a86e-11eb-9c12-9a9a9d297ccc.png)|
+|![image](https://user-images.githubusercontent.com/83201374/116695508-55aa7380-a9de-11eb-8bb4-bab11a251398.png)![image](https://user-images.githubusercontent.com/83201374/116695574-6eb32480-a9de-11eb-9289-5a7dd5fa881f.png)|
 
 # Activity 4
 
 |Displaying different values of temperature on serial monitors|
 |:----:|
-|![image](https://user-images.githubusercontent.com/83201374/116576491-3bfd2380-a92d-11eb-8ebe-47a22ccaf2f6.png)![image](https://user-images.githubusercontent.com/83201374/116576666-6222c380-a92d-11eb-8442-af130a7aecd1.png)![image](https://user-images.githubusercontent.com/83201374/116576810-87afcd00-a92d-11eb-93d9-6dd5e61b39a0.png)![image](https://user-images.githubusercontent.com/83201374/116576931-a6ae5f00-a92d-11eb-9597-021cba37c00f.png)|
+|![image](https://user-images.githubusercontent.com/83201374/116695847-c5b8f980-a9de-11eb-9056-b2d6935dfd11.png)![image](https://user-images.githubusercontent.com/83201374/116695938-dec1aa80-a9de-11eb-90b3-c84e584f33b5.png)![image](https://user-images.githubusercontent.com/83201374/116696002-f4cf6b00-a9de-11eb-817a-d8233347bd32.png)![image](https://user-images.githubusercontent.com/83201374/116696066-09136800-a9df-11eb-884d-2c2b81e90c00.png)|
 
 ## Folder Structure
 Folder             | Description
